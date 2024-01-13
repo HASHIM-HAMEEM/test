@@ -25,3 +25,27 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+/*  own css from here */
+/* styles/Home.module.css */
+.container {
+  /* Your container styles */
+}
+
+.main {
+  /* Your main content styles */
+}
+
+.header {
+  background-color: #008080;
+  color: white;
+  padding: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+}
+
+.card {
+   /* Style each card button */
+}
